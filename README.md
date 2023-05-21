@@ -1,2 +1,2 @@
 # CodePilot_Website
-Learn to build real world CodePilot website. CodePilot is a question and answer website for programmers and developers. Users can post questions related to programming or technology, and other users can answer them
+odePilot website is a online platform that serves as a knowledge-sharing community for programmers and developers. As one of the largest and most active communities in the field of software development, CodePilot website allows individuals to ask and answer questions related to various programming languages, frameworks, and technologies.
